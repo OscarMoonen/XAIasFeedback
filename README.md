@@ -1,5 +1,5 @@
 # XAIasFeedback
-Code for research 'XAI as Feedback: comparing the effectiveness of feedback types in automatic essay scoring'
+Code for the research project 'XAI as Feedback: comparing the effectiveness of feedback types in automatic essay scoring'
 
 Run the files in order:
 0. Pre-process
